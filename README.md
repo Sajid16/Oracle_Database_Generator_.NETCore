@@ -17,5 +17,3 @@ Tools that will be needed to make this project.
 
 ```
 <pre> Scaffold-DbContext "User Id=[database_user_id/schema_name];Password=[database_password];Data Source=[database_ip:port/schema_name];" Oracle.EntityFrameworkCore -OutputDir Entities </pre>
-
-# test
